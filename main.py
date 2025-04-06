@@ -28,3 +28,6 @@ while True:
         pygame.draw.rect(screen, color, [10 + column * SIZE_BLOCK + MARGIN, 20, SIZE_BLOCK, SIZE_BLOCK])
 
     pygame.display.flip()
+
+
+    jkvbguyhfguttg4
